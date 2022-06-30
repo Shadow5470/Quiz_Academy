@@ -1,3 +1,3 @@
 function clickButton(){
-  alert("YOu Pressed a button");
+   window.location.href = "https://shadow5470.github.io/Quiz_Academy/mextPage";
 }
